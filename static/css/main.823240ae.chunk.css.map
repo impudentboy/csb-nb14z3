@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACE,mCAAqC,CACrC,iBACF","file":"main.823240ae.chunk.css","sourcesContent":[".App {\n  font-family: \"Montserrat\", sans-serif;\n  text-align: center;\n}\n"]}
